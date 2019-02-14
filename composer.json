@@ -16,6 +16,8 @@
     "require" : {
         "php" : ">=5.6.0",
         "ext-simplexml" : "*",
+        "ext-pdo_sqlite": "*",
+        "ext-sqlite3": "*",
         "ext-dom" : "*",
         "ext-xml" : "*",
         "ext-gd" : "*",
