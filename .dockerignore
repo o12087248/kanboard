@@ -1,6 +1,6 @@
 .git
 .git*
-.dockerignore
+.dockerignore*
 .vagrant
 .idea
 data/*
